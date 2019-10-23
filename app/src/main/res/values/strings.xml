@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WeatherTest</string>
+
+    <string name="s_error_api">Не удалось выполнить запрос</string>
+    <string name="s_city_not_found">Не найден город</string>
+
+    <string name="s_city_name">City_name</string>
+    <string name="s_weather">Weather</string>
+
+    <string name="s_dt_date">Дата</string>
+    <string name="s_dt_temp">Температура</string>
+
+
+</resources>
